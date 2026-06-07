@@ -1,4 +1,4 @@
-# Hey, I'm Ankit Kumar Singh 👋
+# Hey, I'm AnkitKumar Singh 👋
 
 ### Software Engineer · Agentic AI Developer · Java & Full Stack
 
