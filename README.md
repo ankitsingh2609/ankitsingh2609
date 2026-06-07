@@ -69,9 +69,9 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsingh2609&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/ankitsingh2609)
+(https://github-readme-stats.vercel.app/api?username=ankitsingh2609&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/ankitsingh2609)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh2609&layout=compact&theme=default&hide_border=true)](https://github.com/ankitsingh2609)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsingh2609&layout=compact&theme=default&hide_border=true)](https://github.com/ankitsingh2609)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ankitsingh2609&theme=default&hide_border=true)](https://github.com/ankitsingh2609)
 
